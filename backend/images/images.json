@@ -5,5 +5,19 @@
     "url": "city.jpeg",
     "uploadDate": "2022-09-05",
     "photographersName": "Test Name"
+  },
+  {
+    "id": "2",
+    "title": "test image2",
+    "url": "london.jpeg",
+    "uploadDate": "2022-10-03",
+    "photographersName": "Test Name"
+  },
+  {
+    "id": "3",
+    "title": "test image3",
+    "url": "village.jpeg",
+    "uploadDate": "2022-10-04",
+    "photographersName": "Test Name"
   }
 ]
